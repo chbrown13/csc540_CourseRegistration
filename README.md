@@ -4,7 +4,7 @@ NC State University
 
 CSC540: Database Management Systems
 
-Chris Brown (dcbrow10), Louis Le (lle3), Abhimanyu Kumar (akumar24)
+Chris Brown (dcbrow10), Louis Le, Abhimanyu Kumar
 
 This project involved creating a course registration system for a school. We developed this program to adhere to database theory for table creation, relations, and constraints. More details can be found in our project write-up in report.pdf.
 
